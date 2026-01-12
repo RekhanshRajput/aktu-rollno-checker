@@ -40,5 +40,16 @@ venv\Scripts\activate       # Windows
 
 pip install -r requirements.txt
 
+python main.py
+
+```
+
+
+Disclaimer
+
+- For educational & personal use only.
+- Respect AKTU server – don't spam / run very large ranges without delay.
+- Use at your own risk.
+
 
 
