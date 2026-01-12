@@ -23,5 +23,22 @@
 
 <img width="394" height="179" alt="image" src="https://github.com/user-attachments/assets/b199ecbf-7fe3-4f00-a519-51059c26c4a2" />
 <img width="363" height="307" alt="image" src="https://github.com/user-attachments/assets/282d04a0-31d3-4bab-8bdc-9dd7815c433f" />
+<img width="341" height="272" alt="image" src="https://github.com/user-attachments/assets/734446b0-4141-47c1-85a6-b93922009262" />
+
+
+## Installation
+
+```bash
+# 1. Clone repo
+git clone https://github.com/Rekhansh/aktu-roll-checker.git
+cd aktu-roll-checker
+
+# 2. Install dependencies (recommended in virtual environment)
+python -m venv venv
+source venv/bin/activate    # Linux/Mac
+venv\Scripts\activate       # Windows
+
+pip install -r requirements.txt
+
 
 
